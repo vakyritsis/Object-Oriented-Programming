@@ -1,0 +1,186 @@
+?: 
+ADD small OK
+?: 
+ADD smallball OK
+?: 
+ADD smaller OK
+?: 
+ADD smallest OK
+?: 
+ADD smart OK
+?: 
+ADD smarter OK
+?: 
+ADD smartest OK
+?: 
+ADD smarties OK
+?: 
+ADD smash OK
+?: 
+ADD smashing OK
+?: 
+ADD smasher OK
+?: 
+ADD smashed OK
+?: 
+ADD smug OK
+?: 
+ADD smile OK
+?: 
+ADD smuggler OK
+?: 
+ADD smug NOK
+?: 
+ADD smuggle OK
+?: 
+ADD smiling OK
+?: 
+ADD smileless OK
+?: 
+ADD smiler OK
+?: 
+ADD smiles OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+
+***** Dictionary *****
+small
+smallball
+smaller
+smallest
+smart
+smarter
+smartest
+smarties
+smash
+smashed
+smasher
+smashing
+smile
+smileless
+smiler
+smiles
+smiling
+smug
+smuggle
+smuggler
+
+?: 
+RMV small OK
+?: 
+RMV smart OK
+?: 
+RMV smash OK
+?: 
+RMV smush NOK
+?: 
+RMV smug OK
+?: 
+RMV smile OK
+?: 
+RMV smuggler OK
+?: 
+RMV smallball OK
+?: 
+PreOrder: sm a lle r# st# rt e r# st# ies# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smaller OK
+?: 
+RMV smallest OK
+?: 
+RMV smarter OK
+?: 
+RMV smartest OK
+?: 
+PreOrder: sm a rties# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smarties OK
+?: 
+RMV smuggle OK
+?: 
+RMV smiler OK
+?: 
+PreOrder: sm ash e d# r# ing# il e less# s# ing# 
+?: 
+ADD small OK
+?: 
+ADD smallball OK
+?: 
+ADD smaller OK
+?: 
+PreOrder: sm a ll# ball# er# sh e d# r# ing# il e less# s# ing# 
+?: 
+ADD smallest OK
+?: 
+ADD smart OK
+?: 
+ADD smarter OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# er# sh e d# r# ing# il e less# s# ing# 
+?: 
+ADD smartest OK
+?: 
+ADD smarties OK
+?: 
+ADD smash OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e less# s# ing# 
+?: 
+ADD smashing NOK
+?: 
+ADD smasher NOK
+?: 
+ADD smashed NOK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e less# s# ing# 
+?: 
+ADD smug OK
+?: 
+ADD smile OK
+?: 
+ADD smuggler OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# s# ing# ug# gler# 
+?: 
+ADD smug NOK
+?: 
+ADD smuggle OK
+?: 
+ADD smiling NOK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# s# ing# ug# gle# r# 
+?: 
+ADD smileless NOK
+?: 
+ADD smiler OK
+?: 
+ADD smiles NOK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+
+***** Dictionary *****
+small
+smallball
+smaller
+smallest
+smart
+smarter
+smartest
+smarties
+smash
+smashed
+smasher
+smashing
+smile
+smileless
+smiler
+smiles
+smiling
+smug
+smuggle
+smuggler
+
+?: 
+Bye bye!

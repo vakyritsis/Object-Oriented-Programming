@@ -1,0 +1,188 @@
+-i apple
+-i banana
+-i bean
+-i big
+-i black
+-i boy
+-i cancel
+-i catch
+-i coffe
+-i dimension
+-i exception
+-i fat
+-i flour
+-i flower
+-i girl
+-i has
+-i hat
+-i he
+-i hello
+-i hellenic
+-i helipad
+-i heroe
+-i her
+-i hide
+-i high
+-i smiley
+-i smiling
+-i java
+-i lock
+-i look
+-i low
+-i mango
+-i me
+-i merge
+-i orange
+-i potato
+-i range
+-i save
+-i show
+-i small
+-i sugar
+-i they
+-i throw
+-i try
+-i unlock
+-i we
+-i wide
+-i you
+-i cancel
+-i hello
+-i potato
+-i throw
+-i heroic
+-i heroin
+-i smaller
+-i smallest
+-i smallball
+-i smash
+-i smile
+-i sure
+-i super
+-p
+-d
+-r apple
+-p
+-r banana
+-p
+-r bean
+-p
+-r big
+-p
+-r black
+-p
+-r boy
+-p
+-r cancel
+-p
+-r catch
+-p
+-r coffe
+-p
+-r dimension
+-p
+-r exception
+-p
+-r fat
+-p
+-r flour
+-p
+-r flower
+-p
+-r girl
+-p
+-r has
+-p
+-r hat
+-p
+-r he
+-p
+-r hello
+-p
+-r hellenic
+-p
+-r helipad
+-p
+-r heroe
+-p
+-r her
+-p
+-r hide
+-p
+-r high
+-p
+-r smiley
+-p
+-r smiling
+-p
+-r java
+-p
+-r lock
+-p
+-r look
+-p
+-r low
+-p
+-r mango
+-p
+-r me
+-p
+-r merge
+-p
+-r orange
+-p
+-r potato
+-p
+-r range
+-p
+-r save
+-p
+-r show
+-p
+-r small
+-p
+-r sugar
+-p
+-r they
+-p
+-r throw
+-p
+-r try
+-p
+-r unlock
+-p
+-r we
+-p
+-r wide
+-p
+-r you
+-p
+-r cancel
+-p
+-d
+-r hello
+-p
+-r potato
+-p
+-r throw
+-p
+-r heroic
+-p
+-r heroin
+-p
+-r smaller
+-p
+-r smallest
+-p
+-r smallball
+-p
+-r smash
+-p
+-r smile
+-p
+-r sure
+-p
+-r super
+-p
+-d
+-q

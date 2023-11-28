@@ -1,0 +1,154 @@
+?: 
+ADD small OK
+?: 
+ADD smallball OK
+?: 
+ADD smaller OK
+?: 
+ADD smallest OK
+?: 
+ADD smart OK
+?: 
+ADD smarter OK
+?: 
+ADD smartest OK
+?: 
+ADD smarties OK
+?: 
+ADD smash OK
+?: 
+ADD smashing OK
+?: 
+ADD smasher OK
+?: 
+ADD smashed OK
+?: 
+ADD smug OK
+?: 
+ADD smile OK
+?: 
+ADD smuggler OK
+?: 
+ADD smug NOK
+?: 
+ADD smuggle OK
+?: 
+ADD smiling OK
+?: 
+ADD smileless OK
+?: 
+ADD smiler OK
+?: 
+ADD smiles OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+
+***** Dictionary *****
+small
+smallball
+smaller
+smallest
+smart
+smarter
+smartest
+smarties
+smash
+smashed
+smasher
+smashing
+smile
+smileless
+smiler
+smiles
+smiling
+smug
+smuggle
+smuggler
+
+?: 
+RMV small OK
+?: 
+PreOrder: sm a ll ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+RMV smart OK
+?: 
+PreOrder: sm a ll ball# e r# st# rt e r# st# ies# sh# e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+RMV smash OK
+?: 
+PreOrder: sm a ll ball# e r# st# rt e r# st# ies# sh e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+RMV smush NOK
+?: 
+PreOrder: sm a ll ball# e r# st# rt e r# st# ies# sh e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+RMV smug OK
+?: 
+PreOrder: sm a ll ball# e r# st# rt e r# st# ies# sh e d# r# ing# il e# less# r# s# ing# uggle# r# 
+?: 
+RMV smile OK
+?: 
+PreOrder: sm a ll ball# e r# st# rt e r# st# ies# sh e d# r# ing# il e less# r# s# ing# uggle# r# 
+?: 
+RMV smuggler OK
+?: 
+PreOrder: sm a ll ball# e r# st# rt e r# st# ies# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smallball OK
+?: 
+PreOrder: sm a lle r# st# rt e r# st# ies# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smaller OK
+?: 
+PreOrder: sm a llest# rt e r# st# ies# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smallest OK
+?: 
+PreOrder: sm a rt e r# st# ies# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smarter OK
+?: 
+PreOrder: sm a rt est# ies# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smartest OK
+?: 
+PreOrder: sm a rties# sh e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smarties OK
+?: 
+PreOrder: sm ash e d# r# ing# il e less# r# s# ing# uggle# 
+?: 
+RMV smuggle OK
+?: 
+PreOrder: sm ash e d# r# ing# il e less# r# s# ing# 
+?: 
+RMV smiler OK
+?: 
+PreOrder: sm ash e d# r# ing# il e less# s# ing# 
+?: 
+RMV smiles OK
+?: 
+PreOrder: sm ash e d# r# ing# il eless# ing# 
+?: 
+RMV smashing OK
+?: 
+PreOrder: sm ashe d# r# il eless# ing# 
+?: 
+RMV smasher OK
+?: 
+PreOrder: sm ashed# il eless# ing# 
+?: 
+RMV smashed OK
+?: 
+PreOrder: smil eless# ing# 
+?: 
+RMV smileless OK
+?: 
+PreOrder: smiling# 
+?: 
+RMV smiling OK
+?: 
+PreOrder: 
+?: 
+Bye bye!

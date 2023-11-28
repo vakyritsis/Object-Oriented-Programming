@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/vasilis/Desktop/OOP/C++/hw4'
+g++ -Wall -g -std=c++11 -fsanitize=address HashTable.o HashTableIterator.o ExtHashTable.o -o exe
+make: Leaving directory '/home/vasilis/Desktop/OOP/C++/hw4'
+ 

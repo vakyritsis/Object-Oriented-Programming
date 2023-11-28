@@ -1,0 +1,448 @@
+?: 
+ADD apple OK
+?: 
+ADD banana OK
+?: 
+ADD bean OK
+?: 
+ADD big OK
+?: 
+ADD black OK
+?: 
+ADD boy OK
+?: 
+ADD cancel OK
+?: 
+ADD catch OK
+?: 
+ADD coffe OK
+?: 
+ADD dimension OK
+?: 
+ADD exception OK
+?: 
+ADD fat OK
+?: 
+ADD flour OK
+?: 
+ADD flower OK
+?: 
+ADD girl OK
+?: 
+ADD has OK
+?: 
+ADD hat OK
+?: 
+ADD he OK
+?: 
+ADD hello OK
+?: 
+ADD hellenic OK
+?: 
+ADD helipad OK
+?: 
+ADD heroe OK
+?: 
+ADD her OK
+?: 
+ADD hide OK
+?: 
+ADD high OK
+?: 
+ADD smiley OK
+?: 
+ADD smiling OK
+?: 
+ADD java OK
+?: 
+ADD lock OK
+?: 
+ADD look OK
+?: 
+ADD low OK
+?: 
+ADD mango OK
+?: 
+ADD me OK
+?: 
+ADD merge OK
+?: 
+ADD orange OK
+?: 
+ADD potato OK
+?: 
+ADD range OK
+?: 
+ADD save OK
+?: 
+ADD show OK
+?: 
+ADD small OK
+?: 
+ADD sugar OK
+?: 
+ADD they OK
+?: 
+ADD throw OK
+?: 
+ADD try OK
+?: 
+ADD unlock OK
+?: 
+ADD we OK
+?: 
+ADD wide OK
+?: 
+ADD you OK
+?: 
+ADD cancel NOK
+?: 
+ADD hello NOK
+?: 
+ADD potato NOK
+?: 
+ADD throw NOK
+?: 
+ADD heroic OK
+?: 
+ADD heroin OK
+?: 
+ADD smaller OK
+?: 
+ADD smallest OK
+?: 
+ADD smallball OK
+?: 
+ADD smash OK
+?: 
+ADD smile OK
+?: 
+ADD sure OK
+?: 
+ADD super OK
+?: 
+PreOrder: apple# b anana# ean# ig# lack# oy# c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+
+***** Dictionary *****
+apple
+banana
+bean
+big
+black
+boy
+cancel
+catch
+coffe
+dimension
+exception
+fat
+flour
+flower
+girl
+has
+hat
+he
+helipad
+hellenic
+hello
+her
+heroe
+heroic
+heroin
+hide
+high
+java
+lock
+look
+low
+mango
+me
+merge
+orange
+potato
+range
+save
+show
+small
+smallball
+smaller
+smallest
+smash
+smile
+smiley
+smiling
+sugar
+super
+sure
+they
+throw
+try
+unlock
+we
+wide
+you
+
+?: 
+RMV apple OK
+?: 
+PreOrder: b anana# ean# ig# lack# oy# c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV banana OK
+?: 
+PreOrder: b ean# ig# lack# oy# c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV bean OK
+?: 
+PreOrder: b ig# lack# oy# c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV big OK
+?: 
+PreOrder: b lack# oy# c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV black OK
+?: 
+PreOrder: boy# c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV boy OK
+?: 
+PreOrder: c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV cancel OK
+?: 
+PreOrder: c atch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV catch OK
+?: 
+PreOrder: coffe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV coffe OK
+?: 
+PreOrder: dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV dimension OK
+?: 
+PreOrder: exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV exception OK
+?: 
+PreOrder: f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV fat OK
+?: 
+PreOrder: flo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV flour OK
+?: 
+PreOrder: flower# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV flower OK
+?: 
+PreOrder: girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV girl OK
+?: 
+PreOrder: h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV has OK
+?: 
+PreOrder: h at# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV hat OK
+?: 
+PreOrder: h e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV he OK
+?: 
+PreOrder: h e l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV hello OK
+?: 
+PreOrder: h e l ipad# lenic# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV hellenic OK
+?: 
+PreOrder: h e lipad# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV helipad OK
+?: 
+PreOrder: h er# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV heroe OK
+?: 
+PreOrder: h er# oi c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV her OK
+?: 
+PreOrder: h eroi c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV hide OK
+?: 
+PreOrder: h eroi c# n# igh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV high OK
+?: 
+PreOrder: heroi c# n# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV smiley OK
+?: 
+PreOrder: heroi c# n# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV smiling OK
+?: 
+PreOrder: heroi c# n# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV java OK
+?: 
+PreOrder: heroi c# n# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV lock OK
+?: 
+PreOrder: heroi c# n# lo ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV look OK
+?: 
+PreOrder: heroi c# n# low# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV low OK
+?: 
+PreOrder: heroi c# n# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV mango OK
+?: 
+PreOrder: heroi c# n# me# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV me OK
+?: 
+PreOrder: heroi c# n# merge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV merge OK
+?: 
+PreOrder: heroi c# n# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV orange OK
+?: 
+PreOrder: heroi c# n# potato# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV potato OK
+?: 
+PreOrder: heroi c# n# range# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV range OK
+?: 
+PreOrder: heroi c# n# s ave# how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV save OK
+?: 
+PreOrder: heroi c# n# s how# m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV show OK
+?: 
+PreOrder: heroi c# n# s m a ll# ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV small OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV sugar OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+RMV they OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# t hrow# ry# unlock# w e# ide# you# 
+?: 
+RMV throw OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# try# unlock# w e# ide# you# 
+?: 
+RMV try OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# unlock# w e# ide# you# 
+?: 
+RMV unlock OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# w e# ide# you# 
+?: 
+RMV we OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# wide# you# 
+?: 
+RMV wide OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# you# 
+?: 
+RMV you OK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# 
+?: 
+RMV cancel NOK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# 
+?: 
+
+***** Dictionary *****
+heroic
+heroin
+smallball
+smaller
+smallest
+smash
+smile
+super
+sure
+
+?: 
+RMV hello NOK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# 
+?: 
+RMV potato NOK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# 
+?: 
+RMV throw NOK
+?: 
+PreOrder: heroi c# n# s m a ll ball# e r# st# sh# ile# u per# re# 
+?: 
+RMV heroic OK
+?: 
+PreOrder: heroin# s m a ll ball# e r# st# sh# ile# u per# re# 
+?: 
+RMV heroin OK
+?: 
+PreOrder: s m a ll ball# e r# st# sh# ile# u per# re# 
+?: 
+RMV smaller OK
+?: 
+PreOrder: s m a ll ball# est# sh# ile# u per# re# 
+?: 
+RMV smallest OK
+?: 
+PreOrder: s m a llball# sh# ile# u per# re# 
+?: 
+RMV smallball OK
+?: 
+PreOrder: s m ash# ile# u per# re# 
+?: 
+RMV smash OK
+?: 
+PreOrder: s mile# u per# re# 
+?: 
+RMV smile OK
+?: 
+PreOrder: su per# re# 
+?: 
+RMV sure OK
+?: 
+PreOrder: super# 
+?: 
+RMV super OK
+?: 
+PreOrder: 
+?: 
+
+***** Dictionary *****
+
+?: 
+Bye bye!

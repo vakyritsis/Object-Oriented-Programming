@@ -1,0 +1,197 @@
+?: 
+ADD apple OK
+?: 
+ADD banana OK
+?: 
+ADD bean OK
+?: 
+ADD big OK
+?: 
+ADD black OK
+?: 
+ADD boy OK
+?: 
+ADD cancel OK
+?: 
+ADD catch OK
+?: 
+ADD coffe OK
+?: 
+ADD dimension OK
+?: 
+ADD exception OK
+?: 
+ADD fat OK
+?: 
+ADD flour OK
+?: 
+ADD flower OK
+?: 
+ADD girl OK
+?: 
+ADD has OK
+?: 
+ADD hat OK
+?: 
+ADD he OK
+?: 
+ADD hello OK
+?: 
+ADD hellenic OK
+?: 
+ADD helipad OK
+?: 
+ADD heroe OK
+?: 
+ADD her OK
+?: 
+ADD hide OK
+?: 
+ADD high OK
+?: 
+ADD smiley OK
+?: 
+ADD smiling OK
+?: 
+ADD java OK
+?: 
+ADD lock OK
+?: 
+ADD look OK
+?: 
+ADD low OK
+?: 
+ADD mango OK
+?: 
+ADD me OK
+?: 
+ADD merge OK
+?: 
+ADD orange OK
+?: 
+ADD potato OK
+?: 
+ADD range OK
+?: 
+ADD save OK
+?: 
+ADD show OK
+?: 
+ADD small OK
+?: 
+ADD sugar OK
+?: 
+ADD they OK
+?: 
+ADD throw OK
+?: 
+ADD try OK
+?: 
+ADD unlock OK
+?: 
+ADD we OK
+?: 
+ADD wide OK
+?: 
+ADD you OK
+?: 
+ADD cancel NOK
+?: 
+ADD hello NOK
+?: 
+ADD potato NOK
+?: 
+ADD throw NOK
+?: 
+ADD heroic OK
+?: 
+ADD heroin OK
+?: 
+ADD smaller OK
+?: 
+ADD smallest OK
+?: 
+ADD smallball OK
+?: 
+ADD smash OK
+?: 
+ADD smile OK
+?: 
+ADD sure OK
+?: 
+ADD super OK
+?: 
+PreOrder: apple# b anana# ean# ig# lack# oy# c a ncel# tch# offe# dimension# exception# f at# lo ur# wer# girl# h a s# t# e# l ipad# l enic# o# r# o e# i c# n# i de# gh# java# lo ck# ok# w# m ango# e# rge# orange# potato# range# s ave# how# m a ll# ball# e r# st# sh# il e# y# ing# u gar# per# re# t h ey# row# ry# unlock# w e# ide# you# 
+?: 
+
+***** Dictionary *****
+apple
+banana
+bean
+big
+black
+boy
+cancel
+catch
+coffe
+dimension
+exception
+fat
+flour
+flower
+girl
+has
+hat
+he
+helipad
+hellenic
+hello
+her
+heroe
+heroic
+heroin
+hide
+high
+java
+lock
+look
+low
+mango
+me
+merge
+orange
+potato
+range
+save
+show
+small
+smallball
+smaller
+smallest
+smash
+smile
+smiley
+smiling
+sugar
+super
+sure
+they
+throw
+try
+unlock
+we
+wide
+you
+
+?: 
+
+Words with suffix r:
+flour
+flower
+her
+smaller
+sugar
+super
+
+?: 
+Bye bye!

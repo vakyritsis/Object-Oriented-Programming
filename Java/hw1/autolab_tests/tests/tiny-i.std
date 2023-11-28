@@ -1,0 +1,108 @@
+?: 
+ADD small OK
+?: 
+PreOrder: small# 
+?: 
+ADD smallball OK
+?: 
+PreOrder: small# ball# 
+?: 
+ADD smaller OK
+?: 
+PreOrder: small# ball# er# 
+?: 
+ADD smallest OK
+?: 
+PreOrder: small# ball# e r# st# 
+?: 
+ADD smart OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# 
+?: 
+ADD smarter OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# er# 
+?: 
+ADD smartest OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# e r# st# 
+?: 
+ADD smarties OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# e r# st# ies# 
+?: 
+ADD smash OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# e r# st# ies# sh# 
+?: 
+ADD smashing OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# e r# st# ies# sh# ing# 
+?: 
+ADD smasher OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# e r# st# ies# sh# er# ing# 
+?: 
+ADD smashed OK
+?: 
+PreOrder: sma ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# 
+?: 
+ADD smug OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# ug# 
+?: 
+ADD smile OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# ile# ug# 
+?: 
+ADD smuggler OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# ile# ug# gler# 
+?: 
+ADD smug NOK
+?: 
+ADD smuggle OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# ile# ug# gle# r# 
+?: 
+ADD smiling OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# ing# ug# gle# r# 
+?: 
+ADD smileless OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# ing# ug# gle# r# 
+?: 
+ADD smiler OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# r# ing# ug# gle# r# 
+?: 
+ADD smiles OK
+?: 
+PreOrder: sm a ll# ball# e r# st# rt# e r# st# ies# sh# e d# r# ing# il e# less# r# s# ing# ug# gle# r# 
+?: 
+
+***** Dictionary *****
+small
+smallball
+smaller
+smallest
+smart
+smarter
+smartest
+smarties
+smash
+smashed
+smasher
+smashing
+smile
+smileless
+smiler
+smiles
+smiling
+smug
+smuggle
+smuggler
+
+?: 
+Bye bye!

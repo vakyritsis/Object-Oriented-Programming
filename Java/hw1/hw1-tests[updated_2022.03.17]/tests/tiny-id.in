@@ -1,0 +1,66 @@
+-i small
+-i smallball
+-i smaller
+-i smallest
+-i smart
+-i smarter
+-i smartest
+-i smarties
+-i smash
+-i smashing
+-i smasher
+-i smashed
+-i smug
+-i smile
+-i smuggler
+-i smug
+-i smuggle
+-i smiling
+-i smileless
+-i smiler
+-i smiles
+-p
+-d
+-r small
+-p
+-r smart
+-p
+-r smash
+-p
+-r smush
+-p
+-r smug
+-p
+-r smile
+-p
+-r smuggler
+-p
+-r smallball
+-p
+-r smaller
+-p
+-r smallest
+-p
+-r smarter
+-p
+-r smartest
+-p
+-r smarties
+-p
+-r smuggle
+-p
+-r smiler
+-p
+-r smiles
+-p
+-r smashing
+-p
+-r smasher
+-p
+-r smashed
+-p
+-r smileless
+-p
+-r smiling
+-p
+-q
